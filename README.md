@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianbrodsky&label=Profile%20views&color=0e75b6&style=flat" alt="julianbrodsky" /> </p>
 
-- 🔭 I’m currently working on [FinMe](https://github.com/julianbrodsky/finme)
+- 🔭 I’m currently working on a full stack financial application called [FinMe](https://github.com/julianbrodsky/finme)
 
-- 🌱 I’m currently learning **Three.js, WebGL, and 3d design!**
+- 🌱 In my free time, I'm learning **Three.js, WebGL, and 3d design!**
 
 - 💬 Ask me about **MongoDB, Node.js, and Express!**
 
