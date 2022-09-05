@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Julian Brodsky</h1>
+<h1 align="center">Hey 👋 I'm Julian</h1>
 <h3 align="center">A statistical programmer and fullstack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianbrodsky&label=Profile%20views&color=0e75b6&style=flat" alt="julianbrodsky" /> </p>
