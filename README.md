@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MongoDB, Node.js, and Express!**
 
-- 📫 Reach me via email or Linkedin **brodsky.netlify.app/**
+- 📫 Reach me via email or Linkedin: **brodsky.netlify.app/**
 
 - ⚡ Work with me! **I'm always open to hearing about new opportunities to work on fun and challenging problems!**
 
