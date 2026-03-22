@@ -1,17 +1,7 @@
 <h1 align="center">Hey 👋 I'm Julian</h1>
-<h3 align="center">A statistical programmer and fullstack web developer</h3>
+<h3 align="center">I'm here to have fun building things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianbrodsky&label=Profile%20views&color=0e75b6&style=flat" alt="julianbrodsky" /> </p>
-
-- 🔭 I’m currently working on a full stack financial application called [FinMe](https://github.com/julianbrodsky/finme)
-
-- 🌱 In my free time, I'm learning **Three.js, WebGL, and 3d design!**
-
-- 💬 Ask me about **MongoDB, Node.js, and Express!**
-
-- 📫 Reach me via email or Linkedin: https://brodsky.netlify.app/
-
-- ⚡ Work with me! **I'm always open to hearing about new opportunities to work on fun and challenging problems!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
